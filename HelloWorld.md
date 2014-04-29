@@ -4,4 +4,5 @@
 Your h2 formatting does not work because you enclose the whole text in quotation marks.
 
 ## My comment
-Fixed!
+- Fixed! 
+- Should have been made clear in the assignment problem statement.
